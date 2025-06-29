@@ -1,0 +1,7 @@
+"question,answer,tags"
+"""When do the courses start?"",""Our courses begin on the 1st of every month. Classes run Monday to Friday, 6 PM to 8 PM IST."",""course_schedule"""
+"""Can you tell me the class timing?"",""Classes are held every weekday (Monday-Friday) from 6 PM to 8 PM IST."",""course_schedule"""
+"""What is the course syllabus?"",""The syllabus includes Module 1 - Basics, Module 2 - Advanced Topics, and Module 3 - Project Work."",""syllabus_info"""
+"""What topics are covered in the course?"",""We cover fundamentals, advanced problem solving, and hands-on projects as part of the syllabus."",""syllabus_info"""
+"""How can I enroll in a course?"",""To enroll, visit our Courses page, select a course, click 'Enroll Now', and complete the registration form."",""enrollment_process"""
+"""What is the process to join a course?"",""You can register online by choosing your course, filling out the form, and making the payment securely."",""enrollment_process"""
